@@ -38,4 +38,4 @@ As shown in the following figures, FedVC demonstrates more stable and accurate c
 
 ## Usage
 
-This repository's code is based on the PaddlePaddle framework. To run it, you should first import it into the aistudio environment.
+This repository's code is based on the PaddlePaddle framework. To run it, you should first import it into the aistudio environment. Or you can just fork this project: https://aistudio.baidu.com/projectdetail/4469577?contributionType=1
